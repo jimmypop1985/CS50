@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: Performed sorted the fastest and had big upper limit
+
+sort2 uses: merge
+
+How do you know?: Had lowest upper range, and performed random the best
+
+sort3 uses: selection
+
+How do you know?: performed reversed the fastest and had big upper limit
